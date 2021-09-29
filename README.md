@@ -1,5 +1,5 @@
 # Super_ADACA
-Contract for Super_ADA https://bscscan.com/token/0x6051ded779ce26646b213e22ab69805f5bca4df5
+
 Welcome to the most SUPER  💪Reward token in all of BSC. 
 
 Introducing PowerHour. A new form of contract developed by the Super Devs. 🔥
@@ -13,3 +13,9 @@ First hour of the launch will be POWERHOUR. So 2x Rewards during launch. 🚀
 Earn the most ADA automatically, easily, and hourly with SuperADA. 
 
 Be SUPER. 💫
+
+https://bscscan.com/token/0x6051ded779ce26646b213e22ab69805f5bca4df5
+
+
+
+
